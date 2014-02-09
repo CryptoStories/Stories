@@ -1,2 +1,2 @@
 STORIES
-The Cryptocurrency of the arts/
+The Cryptocurrency of the arts.
